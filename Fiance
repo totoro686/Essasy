@@ -7,4 +7,12 @@ ETD - Exchange-traded derivative contract
 CD  - Credit derivative
       https://en.wikipedia.org/wiki/Credit_derivative
       
+CD: Credit Derivatives 信用衍生产品
+ETDC: Exchange Trade Derivatives Client 外汇交易衍生品 - 客户
+ETDE: Exchange Trade Derivatives Exchange 外汇交易衍生品 - 交易所
+ETDP: Exchange Trade Derivatives Position 外汇交易衍生品 - 状态？
+NCCR: Non Counterparty Credit Risk 非订约方信用风险（非交易对手风险）
+OTC: Over the Counter 询价交易方式
+SFT: Securities Financing Transactions 证券融资交易       
+      
 recommend book: option futures and other derivatives
